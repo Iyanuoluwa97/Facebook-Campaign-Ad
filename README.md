@@ -34,6 +34,12 @@ The presentation typically summarizes:
 
 ---
 
+
+## Key Results & Achievements
+
+* **Performance Optimization**: Identified ad creatives and headlines that produced the highest click-through rates (CTR), enabling data-driven content recommendations.
+* **ROAS Analysis**: Highlighted ad sets with the strongest Return on Ad Spend (ROAS) and lowest Cost Per Acquisition (CPA) to guide future marketing budget allocations and scale profitable campaigns.
+* 
 ## Usage
 
 To view the report:
